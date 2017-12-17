@@ -1,6 +1,7 @@
 Unbestowed
 
 Game developed in 2017 Retro Game Jam organized by IEEE and Porto Graphics.
+Requires Pico-8 software to play.
 
 It was my and my colleagues first Game Jam. The theme was "Discovery" and we had to use Pico-8.
 
