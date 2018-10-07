@@ -1,4 +1,4 @@
-# Unbestowed :city_sunrise: :sound: :video_game:
+# Unbestowed :video_game:
 
 :construction: This is not finished, still a work in progress. :construction:
 
